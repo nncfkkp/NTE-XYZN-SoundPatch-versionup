@@ -1,0 +1,7 @@
+{
+  "game_dir": "游戏安装目录",
+  "version": "2.0.1",
+  "update_check_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/config.json.example",
+  "release_page": "https://github.com/nncfkkp/NTE-XYZN-SoundPatch/releases",
+  "replace_state": {}
+}
