@@ -1,0 +1,756 @@
+{
+  "songs": {
+    "Play_Music_Radio_Deep_House_001": {
+      "display_name": "Wandering In The Night",
+      "media_id": 103117793,
+      "media_path": "WwiseAudio/Media/103117793.wem",
+      "event_id": 899271249,
+      "duration": 186.0,
+      "stringtable_key": [
+        "DT_PlayerMusic_1",
+        "ST_UI_C"
+      ],
+      "chunk_id": "7a36ca48fb4d419200000001"
+    },
+    "Play_Music_Radio_Futrue_Bass_001": {
+      "display_name": "Day Dream",
+      "media_id": 607759396,
+      "media_path": "WwiseAudio/Media/607759396.wem",
+      "event_id": 188057865,
+      "duration": 182.5641,
+      "stringtable_key": [
+        "DT_PlayerMusic_2",
+        "ST_UI_C"
+      ],
+      "chunk_id": "00d8c4a36014645900000001"
+    },
+    "Play_Music_Radio_Jazz_HipHop_001": {
+      "display_name": "Drowning",
+      "media_id": 821386184,
+      "media_path": "WwiseAudio/Media/821386184.wem",
+      "event_id": 550253504,
+      "duration": 104.47061,
+      "stringtable_key": [
+        "DT_PlayerMusic_3",
+        "ST_UI_C"
+      ],
+      "chunk_id": "4de3f579380525a400000001"
+    },
+    "Play_Music_Radio_Phonk_001": {
+      "display_name": "MissionEleven",
+      "media_id": 506071418,
+      "media_path": "WwiseAudio/Media/506071418.wem",
+      "event_id": 806607880,
+      "duration": 182.6087,
+      "stringtable_key": [
+        "DT_PlayerMusic_4",
+        "ST_UI_C"
+      ],
+      "chunk_id": "66dcc5d4d2b546e100000001"
+    },
+    "Play_Music_Radio_Synthwave_001": {
+      "display_name": "NightRun",
+      "media_id": 227507113,
+      "media_path": "WwiseAudio/Media/227507113.wem",
+      "event_id": 1252080995,
+      "duration": 180.0,
+      "stringtable_key": [
+        "DT_PlayerMusic_5",
+        "ST_UI_C"
+      ],
+      "chunk_id": "81dc1123d35eb15800000001"
+    },
+    "Play_Music_Radio_Trancestep_001": {
+      "display_name": "Elysium",
+      "media_id": 1040586826,
+      "media_path": "WwiseAudio/Media/1040586826.wem",
+      "event_id": 2396216367,
+      "duration": 184.0,
+      "stringtable_key": [
+        "DT_PlayerMusic_6",
+        "ST_UI_C"
+      ],
+      "chunk_id": "1ef6479f5d80c3dc00000001"
+    },
+    "Play_Music_Radio_Progressive_Metal_001": {
+      "display_name": "Dream Land",
+      "media_id": 813462782,
+      "media_path": "WwiseAudio/Media/813462782.wem",
+      "event_id": 3984588407,
+      "duration": 188.8889,
+      "stringtable_key": [
+        "DT_PlayerMusic_7",
+        "ST_UI_C"
+      ],
+      "chunk_id": "df040e235a576b9600000001"
+    },
+    "Play_Music_Radio_UKGarage_001": {
+      "display_name": "Tide Gravity",
+      "media_id": 292501124,
+      "media_path": "WwiseAudio/Media/292501124.wem",
+      "event_id": 865003809,
+      "duration": 181.93549,
+      "stringtable_key": [
+        "DT_PlayerMusic_8",
+        "ST_UI_C"
+      ],
+      "chunk_id": "bae1874b57f5132700000001"
+    },
+    "Play_Music_Radio_Fusion_001": {
+      "display_name": "Chandelier",
+      "media_id": 392548665,
+      "media_path": "WwiseAudio/Media/392548665.wem",
+      "event_id": 2837025390,
+      "duration": 186.46674,
+      "stringtable_key": [
+        "DT_PlayerMusic_9",
+        "ST_UI_C"
+      ],
+      "chunk_id": "78d0ff8acdb4577c00000001"
+    },
+    "Play_Music_Radio_CityNoPop_001": {
+      "display_name": "City No Pop",
+      "media_id": 893002161,
+      "media_path": "WwiseAudio/Media/893002161.wem",
+      "event_id": 4278594175,
+      "duration": 167.328,
+      "stringtable_key": [
+        "DT_PlayerMusic_10",
+        "ST_UI_C"
+      ],
+      "chunk_id": "fffe2b7f9eab8e0a00000001"
+    },
+    "Play_Music_Radio_MXJ_001": {
+      "display_name": "迷星叫",
+      "media_id": 359816751,
+      "media_path": "WwiseAudio/Media/359816751.wem",
+      "event_id": 2580482965,
+      "duration": 139.26315,
+      "stringtable_key": [
+        "Wiku_SongName5",
+        "ST_Ui"
+      ],
+      "chunk_id": "87b59e6f0a11646c00000001"
+    },
+    "Play_Music_Radio_Ride_001": {
+      "display_name": "Ride",
+      "media_id": 814212925,
+      "media_path": "WwiseAudio/Media/814212925.wem",
+      "event_id": 1007474480,
+      "duration": 222.15518,
+      "stringtable_key": [
+        "disc_0012_name",
+        "ST_Item"
+      ],
+      "chunk_id": "80911727622a7a3a00000001"
+    },
+    "Play_Music_Radio_Round_and_Round_001": {
+      "display_name": "Round and Round",
+      "media_id": 1019746358,
+      "media_path": "WwiseAudio/Media/1019746358.wem",
+      "event_id": 4249329761,
+      "duration": 186.0,
+      "stringtable_key": [
+        "disc_0013_name",
+        "ST_Item"
+      ],
+      "chunk_id": "bf1533ac8653a9c700000001"
+    },
+    "Play_Music_Radio_Y_Tson_Gf": {
+      "display_name": "The Song Of Nightingale",
+      "media_id": 463224937,
+      "media_path": "WwiseAudio/Media/463224937.wem",
+      "event_id": 4247937950,
+      "duration": 202.0,
+      "stringtable_key": [
+        "Music_Radio_Y_Tson_Gf",
+        "ST_UI_C"
+      ],
+      "chunk_id": "08d07cae8001a64100000001"
+    },
+    "Play_Music_Radio_Y_AG": {
+      "display_name": "Afterglow",
+      "media_id": 205864816,
+      "media_path": "WwiseAudio/Media/205864816.wem",
+      "event_id": 2049258066,
+      "duration": 215.62502,
+      "stringtable_key": [
+        "Music_Radio_Y_AG",
+        "ST_UI_C"
+      ],
+      "chunk_id": "b8a29cf00cf608b100000001"
+    },
+    "Play_Music_Radio_Y_ML": {
+      "display_name": "Magic Lights",
+      "media_id": 626031971,
+      "media_path": "WwiseAudio/Media/626031971.wem",
+      "event_id": 2116368621,
+      "duration": 178.0,
+      "stringtable_key": [
+        "Music_Radio_Y_ML",
+        "ST_UI_C"
+      ],
+      "chunk_id": "2420934598f42f7c00000001"
+    },
+    "Play_Music_Radio_Y_CP_10AM": {
+      "display_name": "Champion!",
+      "media_id": 378170871,
+      "media_path": "WwiseAudio/Media/378170871.wem",
+      "event_id": 1128353383,
+      "duration": 195.0,
+      "stringtable_key": [
+        "DT_PlayerMusic_11",
+        "ST_UI_C"
+      ],
+      "chunk_id": "afbfb21930f6620c00000001"
+    },
+    "Play_Music_Radio_Y_PO_10AM": {
+      "display_name": "Play On!",
+      "media_id": 18403445,
+      "media_path": "WwiseAudio/Media/18403445.wem",
+      "event_id": 2419585053,
+      "duration": 152.0,
+      "stringtable_key": [
+        "DT_PlayerMusic_12",
+        "ST_UI_C"
+      ],
+      "chunk_id": "0c20a4e2581e6f6700000001"
+    },
+    "Play_Music_Radio_P_AaV_LI": {
+      "display_name": "Ambitions and Visions",
+      "media_id": 12138705,
+      "media_path": "WwiseAudio/Media/12138705.wem",
+      "event_id": 4065738279,
+      "duration": 199.25,
+      "stringtable_key": [
+        "Music_Radio_P_AaV_LI",
+        "ST_UI_C"
+      ],
+      "chunk_id": "36c6f5eec35c511400000001"
+    },
+    "Play_Music_Radio_P_DZ_BWA": {
+      "display_name": "Deep Zone",
+      "media_id": 148949254,
+      "media_path": "WwiseAudio/Media/148949254.wem",
+      "event_id": 4087914692,
+      "duration": 122.96802,
+      "stringtable_key": [
+        "Music_Radio_P_DZ_BWA",
+        "ST_UI_C"
+      ],
+      "chunk_id": "44b952b283b8dc7400000001"
+    },
+    "Play_Music_Radio_P_DS_BWA": {
+      "display_name": "Desire Surrender",
+      "media_id": 876660135,
+      "media_path": "WwiseAudio/Media/876660135.wem",
+      "event_id": 3376160317,
+      "duration": 204.0,
+      "stringtable_key": [
+        "Music_Radio_P_DS_BWA",
+        "ST_UI_C"
+      ],
+      "chunk_id": "6724aa62df39e0c300000001"
+    },
+    "Play_Music_Radio_P_GWTS": {
+      "display_name": "Gone with the Storm",
+      "media_id": 866697796,
+      "media_path": "WwiseAudio/Media/866697796.wem",
+      "event_id": 4252350848,
+      "duration": 214.96288,
+      "stringtable_key": [
+        "Music_Radio_P_GWTS",
+        "ST_UI_C"
+      ],
+      "chunk_id": "ba787f4f2a5b4a4100000001"
+    },
+    "Play_Music_Radio_P_LS_BWA_LI": {
+      "display_name": "Last Strike",
+      "media_id": 162604726,
+      "media_path": "WwiseAudio/Media/162604726.wem",
+      "event_id": 3282325229,
+      "duration": 216.5,
+      "stringtable_key": [
+        "Music_Radio_P_LS_BWA_LI",
+        "ST_UI_C"
+      ],
+      "chunk_id": "34fa63dc1b4072e500000001"
+    },
+    "Play_Music_Radio_P_P_BWA": {
+      "display_name": "Paradisum",
+      "media_id": 1058935448,
+      "media_path": "WwiseAudio/Media/1058935448.wem",
+      "event_id": 721359960,
+      "duration": 101.18152,
+      "stringtable_key": [
+        "Music_Radio_P_P_BWA",
+        "ST_UI_C"
+      ],
+      "chunk_id": "a9d782f3ccd64ced00000001"
+    },
+    "Play_Music_Radio_P_RE_BWA": {
+      "display_name": "Rage Education",
+      "media_id": 53536793,
+      "media_path": "WwiseAudio/Media/53536793.wem",
+      "event_id": 799329949,
+      "duration": 268.68765,
+      "stringtable_key": [
+        "Music_Radio_P_RE_BWA",
+        "ST_UI_C"
+      ],
+      "chunk_id": "5f467e22f125cb8f00000001"
+    },
+    "Play_Music_Radio_P_ShS": {
+      "display_name": "Show Stealer",
+      "media_id": 720850752,
+      "media_path": "WwiseAudio/Media/720850752.wem",
+      "event_id": 1945129743,
+      "duration": 184.20627,
+      "stringtable_key": [
+        "Music_Radio_P_ShS",
+        "ST_UI_C"
+      ],
+      "chunk_id": "26f394601ed5b96700000001"
+    },
+    "Play_Music_Radio_P_StS": {
+      "display_name": "Star Shine",
+      "media_id": 503119169,
+      "media_path": "WwiseAudio/Media/503119169.wem",
+      "event_id": 1743798507,
+      "duration": 165.10043,
+      "stringtable_key": [
+        "Music_Radio_P_StS",
+        "ST_UI_C"
+      ],
+      "chunk_id": "05e5e37ef0899de300000001"
+    },
+    "Play_Music_Radio_P_WUYH_BWA_LI": {
+      "display_name": "Wake Up Your Hero",
+      "media_id": 479960360,
+      "media_path": "WwiseAudio/Media/479960360.wem",
+      "event_id": 482852917,
+      "duration": 202.2585,
+      "stringtable_key": [
+        "Music_Radio_P_WUYH_BWA_LI",
+        "ST_UI_C"
+      ],
+      "chunk_id": "c4819bdd6997c1e800000001"
+    },
+    "Play_Music_Radio_P_LWC": {
+      "display_name": "Life Will Change",
+      "media_id": 746224145,
+      "media_path": "WwiseAudio/Media/746224145.wem",
+      "event_id": 1524262321,
+      "duration": 262.02667,
+      "stringtable_key": [
+        "Music_Radio_P_LWC",
+        "ST_UI_C"
+      ],
+      "chunk_id": "e10d2340255e274f00000001"
+    },
+    "Play_Music_Radio_P_BTM_R": {
+      "display_name": "Beneath the Mask -rain-",
+      "media_id": 691971547,
+      "media_path": "WwiseAudio/Media/691971547.wem",
+      "event_id": 1375873955,
+      "duration": 274.73334,
+      "stringtable_key": [
+        "Music_Radio_P_BTM_R",
+        "ST_UI_C"
+      ],
+      "chunk_id": "1f836f1992ffbe4700000001"
+    },
+    "Play_Music_Radio_T_CHO": {
+      "display_name": "Chocolate",
+      "media_id": 978928788,
+      "media_path": "WwiseAudio/Media/978928788.wem",
+      "event_id": 2141865823,
+      "duration": 136.0,
+      "stringtable_key": [
+        "Music_Radio_T_CHO",
+        "ST_UI_C"
+      ],
+      "chunk_id": "ce70087cda46a4e000000001"
+    },
+    "Play_Music_Radio_T_GC": {
+      "display_name": "Go,Chaser",
+      "media_id": 1045392251,
+      "media_path": "WwiseAudio/Media/1045392251.wem",
+      "event_id": 3695304871,
+      "duration": 257.5,
+      "stringtable_key": [
+        "Music_Radio_T_GC",
+        "ST_UI_C"
+      ],
+      "chunk_id": "515e4414c40c64d300000001"
+    },
+    "Play_Music_Radio_T_ITL": {
+      "display_name": "In.The.Light",
+      "media_id": 451831470,
+      "media_path": "WwiseAudio/Media/451831470.wem",
+      "event_id": 1872541210,
+      "duration": 210.94118,
+      "stringtable_key": [
+        "Music_Radio_T_ITL",
+        "ST_UI_C"
+      ],
+      "chunk_id": "b8087c50d3162ee800000001"
+    },
+    "Play_Music_Radio_T_MTB": {
+      "display_name": "Meant To Be",
+      "media_id": 782129106,
+      "media_path": "WwiseAudio/Media/782129106.wem",
+      "event_id": 1873129648,
+      "duration": 214.0,
+      "stringtable_key": [
+        "Music_Radio_T_MTB",
+        "ST_UI_C"
+      ],
+      "chunk_id": "559642a508f66ffa00000001"
+    },
+    "Play_Music_Radio_T_NW": {
+      "display_name": "New World",
+      "media_id": 238371407,
+      "media_path": "WwiseAudio/Media/238371407.wem",
+      "event_id": 3577861576,
+      "duration": 211.21342,
+      "stringtable_key": [
+        "Music_Radio_T_NW",
+        "ST_UI_C"
+      ],
+      "chunk_id": "f6998fc7a4e3979d00000001"
+    },
+    "Play_Music_Radio_T_TSOD": {
+      "display_name": "The Seed Of Dreams",
+      "media_id": 456822299,
+      "media_path": "WwiseAudio/Media/456822299.wem",
+      "event_id": 574797419,
+      "duration": 264.0,
+      "stringtable_key": [
+        "Music_Radio_T_TSOD",
+        "ST_UI_C"
+      ],
+      "chunk_id": "ea0c18f18540622400000001"
+    },
+    "Play_Music_Radio_T_ZXM": {
+      "display_name": "仲夏夜的梦想",
+      "media_id": 334313333,
+      "media_path": "WwiseAudio/Media/334313333.wem",
+      "event_id": 1975619756,
+      "duration": 170.08046,
+      "stringtable_key": [
+        "Music_Radio_T_ZXM",
+        "ST_UI_C"
+      ],
+      "chunk_id": "07518213d874f6fd00000001"
+    },
+    "Play_Music_Radio_T_JHT": {
+      "display_name": "镜花堂",
+      "media_id": 278874171,
+      "media_path": "WwiseAudio/Media/278874171.wem",
+      "event_id": 2241398773,
+      "duration": 210.0,
+      "stringtable_key": [
+        "Music_Radio_T_JHT",
+        "ST_UI_C"
+      ],
+      "chunk_id": "db6915b9e698868800000001"
+    },
+    "Play_Music_Radio_Y_BMZC": {
+      "display_name": "不眠之城",
+      "media_id": 582136728,
+      "media_path": "WwiseAudio/Media/582136728.wem",
+      "event_id": 1809548888,
+      "duration": 178.0,
+      "stringtable_key": [
+        "Music_Radio_Y_BMZC",
+        "ST_UI_C"
+      ],
+      "chunk_id": "84880ebc1594f39900000001"
+    },
+    "Play_Music_Radio_Y_CSTLJH30": {
+      "display_name": "城市逃离计划30%",
+      "media_id": 426815353,
+      "media_path": "WwiseAudio/Media/426815353.wem",
+      "event_id": 3014985151,
+      "duration": 180.27542,
+      "stringtable_key": [
+        "Music_Radio_Y_CSTLJH30",
+        "ST_UI_C"
+      ],
+      "chunk_id": "b79ffc1ac5b5068b00000001"
+    },
+    "Play_Music_Radio_Y_CSTLJH60": {
+      "display_name": "城市逃离计划60%",
+      "media_id": 1061747025,
+      "media_path": "WwiseAudio/Media/1061747025.wem",
+      "event_id": 2931096960,
+      "duration": 176.56456,
+      "stringtable_key": [
+        "Music_Radio_Y_CSTLJH60",
+        "ST_UI_C"
+      ],
+      "chunk_id": "bda520f7c7baaf3300000001"
+    },
+    "Play_Music_Radio_Y_JRYWSY": {
+      "display_name": "今日，因我闪耀",
+      "media_id": 446567437,
+      "media_path": "WwiseAudio/Media/446567437.wem",
+      "event_id": 2097682478,
+      "duration": 142.53036,
+      "stringtable_key": [
+        "Music_Radio_Y_JRYWSY",
+        "ST_UI_C"
+      ],
+      "chunk_id": "1ff5bfd7594fdd2d00000001"
+    },
+    "Play_Music_Radio_Y_JYYCKM": {
+      "display_name": "今夜，于此开幕",
+      "media_id": 623647940,
+      "media_path": "WwiseAudio/Media/623647940.wem",
+      "event_id": 1162399085,
+      "duration": 142.0,
+      "stringtable_key": [
+        "Music_Radio_Y_JYYCKM",
+        "ST_UI_C"
+      ],
+      "chunk_id": "58083b3b3efc2d4400000001"
+    },
+    "Play_Music_Radio_Y_LCZC": {
+      "display_name": "流彩之城",
+      "media_id": 81574844,
+      "media_path": "WwiseAudio/Media/81574844.wem",
+      "event_id": 22801044,
+      "duration": 118.0,
+      "stringtable_key": [
+        "Music_Radio_Y_LCZC",
+        "ST_UI_C"
+      ],
+      "chunk_id": "90e9c063ea62a70a00000001"
+    },
+    "Play_Music_Radio_Y_MYDKJC33": {
+      "display_name": "漫游打卡进程33%",
+      "media_id": 336991061,
+      "media_path": "WwiseAudio/Media/336991061.wem",
+      "event_id": 1434678800,
+      "duration": 172.0,
+      "stringtable_key": [
+        "Music_Radio_Y_MYDKJC33",
+        "ST_UI_C"
+      ],
+      "chunk_id": "2d2c346abdc7d4ff00000001"
+    },
+    "Play_Music_Radio_Y_MYDKJC66": {
+      "display_name": "漫游打卡进程66%",
+      "media_id": 1052703972,
+      "media_path": "WwiseAudio/Media/1052703972.wem",
+      "event_id": 1485011690,
+      "duration": 178.0,
+      "stringtable_key": [
+        "Music_Radio_Y_MYDKJC66",
+        "ST_UI_C"
+      ],
+      "chunk_id": "728d3a801e04298600000001"
+    },
+    "Play_Music_Radio_Y_SJZC": {
+      "display_name": "烁金之城",
+      "media_id": 445162043,
+      "media_path": "WwiseAudio/Media/445162043.wem",
+      "event_id": 318217196,
+      "duration": 213.96823,
+      "stringtable_key": [
+        "Music_Radio_Y_SJZC",
+        "ST_UI_C"
+      ],
+      "chunk_id": "2dc09f9192279cca00000001"
+    },
+    "Play_Music_Radio_Y_ZAYYZ": {
+      "display_name": "早安，摇曳镇",
+      "media_id": 411692549,
+      "media_path": "WwiseAudio/Media/411692549.wem",
+      "event_id": 1435371339,
+      "duration": 108.5,
+      "stringtable_key": [
+        "Music_Radio_Y_ZAYYZ",
+        "ST_UI_C"
+      ],
+      "chunk_id": "a3d084d02952019500000001"
+    },
+    "Play_Music_Radio_Y_BEAST": {
+      "display_name": "BEAST!",
+      "media_id": 605769157,
+      "media_path": "WwiseAudio/Media/605769157.wem",
+      "event_id": 0,
+      "duration": 213.522,
+      "stringtable_key": [
+        "DT_PlayerMusic_13",
+        "ST_UI_C"
+      ],
+      "chunk_id": "8e796e1624287f2800000001"
+    },
+    "Play_Music_Radio_Y_WDS": {
+      "display_name": "未对时",
+      "media_id": 795236817,
+      "media_path": "WwiseAudio/Media/795236817.wem",
+      "event_id": 0,
+      "duration": 211.58936,
+      "stringtable_key": [
+        "DT_PlayerMusic_14",
+        "ST_UI_C"
+      ],
+      "chunk_id": "4cfdc7fe3811c1ac00000001"
+    },
+    "Play_Music_Radio_Y_OOS": {
+      "display_name": "Out Of Sync",
+      "media_id": 933100642,
+      "media_path": "WwiseAudio/Media/933100642.wem",
+      "event_id": 0,
+      "duration": 211.58936,
+      "stringtable_key": [
+        "DT_PlayerMusic_15",
+        "ST_UI_C"
+      ],
+      "chunk_id": "7f9035465f9855b100000001"
+    },
+    "Play_Music_Radio_Y_WIS": {
+      "display_name": "Whatever it says",
+      "media_id": 599747647,
+      "media_path": "WwiseAudio/Media/599747647.wem",
+      "event_id": 0,
+      "duration": 220.13799,
+      "stringtable_key": [
+        "DT_PlayerMusic_16",
+        "ST_UI_C"
+      ],
+      "chunk_id": "7987f0593182d47800000001"
+    },
+    "Play_Music_Radio_Y_Lullaby": {
+      "display_name": "Lullaby",
+      "media_id": 480233262,
+      "media_path": "WwiseAudio/Media/480233262.wem",
+      "event_id": 0,
+      "duration": 195.53142,
+      "stringtable_key": [
+        "DT_PlayerMusic_17",
+        "ST_UI_C"
+      ],
+      "chunk_id": "c618a44e0abd60b100000001"
+    },
+    "Play_Music_Radio_Y_CS": {
+      "display_name": "Crismon Solver",
+      "media_id": 937534639,
+      "media_path": "WwiseAudio/Media/937534639.wem",
+      "event_id": 0,
+      "duration": 184.72536,
+      "stringtable_key": [
+        "DT_PlayerMusic_18",
+        "ST_UI_C"
+      ],
+      "chunk_id": "a4b925f7f30458d800000001"
+    },
+    "Play_Music_Radio_Y_CL": {
+      "display_name": "Crismon Lullaby",
+      "media_id": 215701131,
+      "media_path": "WwiseAudio/Media/215701131.wem",
+      "event_id": 0,
+      "duration": 138.43944,
+      "stringtable_key": [
+        "DT_PlayerMusic_19",
+        "ST_UI_C"
+      ],
+      "chunk_id": "7045049b6e18b95d00000001"
+    },
+    "Play_Music_Radio_Y_COTD": {
+      "display_name": "Chains of the Dark",
+      "media_id": 318149664,
+      "media_path": "WwiseAudio/Media/318149664.wem",
+      "event_id": 0,
+      "duration": 179.5,
+      "stringtable_key": [
+        "DT_PlayerMusic_20",
+        "ST_UI_C"
+      ],
+      "chunk_id": "51b25eb07fc4d01e00000001"
+    },
+    "Play_Music_Radio_Y_Takido": {
+      "display_name": "Tayge Tayge Rhythm",
+      "media_id": 30735230,
+      "media_path": "WwiseAudio/Media/30735230.wem",
+      "event_id": 0,
+      "duration": 181.45372,
+      "stringtable_key": [
+        "disc_0014_Tayge_name",
+        "ST_Item"
+      ],
+      "chunk_id": "09d29df78dc3fd0900000001"
+    }
+  },
+  "stringtable_ue_paths": {
+    "ST_Item": "/Game/Text/ST_Item",
+    "ST_UI_C": "/Game/Text/ST_UI_C",
+    "ST_Ui": "/Game/Text/ST_Ui"
+  },
+  "chunk_ids": {
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Deep_House_001": "7a36ca48fb4d419200000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Futrue_Bass_001": "00d8c4a36014645900000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Jazz_HipHop_001": "4de3f579380525a400000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Phonk_001": "66dcc5d4d2b546e100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Synthwave_001": "81dc1123d35eb15800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Trancestep_001": "1ef6479f5d80c3dc00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Progressive_Metal_001": "df040e235a576b9600000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_UKGarage_001": "bae1874b57f5132700000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Fusion_001": "78d0ff8acdb4577c00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_CityNoPop_001": "fffe2b7f9eab8e0a00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_MXJ_001": "87b59e6f0a11646c00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Ride_001": "80911727622a7a3a00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Round_and_Round_001": "bf1533ac8653a9c700000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_Tson_Gf": "08d07cae8001a64100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_AG": "b8a29cf00cf608b100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_ML": "2420934598f42f7c00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_CP_10AM": "afbfb21930f6620c00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_PO_10AM": "0c20a4e2581e6f6700000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_AaV_LI": "36c6f5eec35c511400000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_DZ_BWA": "44b952b283b8dc7400000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_DS_BWA": "6724aa62df39e0c300000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_GWTS": "ba787f4f2a5b4a4100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_LS_BWA_LI": "34fa63dc1b4072e500000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_P_BWA": "a9d782f3ccd64ced00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_RE_BWA": "5f467e22f125cb8f00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_ShS": "26f394601ed5b96700000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_StS": "05e5e37ef0899de300000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_WUYH_BWA_LI": "c4819bdd6997c1e800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_LWC": "e10d2340255e274f00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_P_BTM_R": "1f836f1992ffbe4700000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_CHO": "ce70087cda46a4e000000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_GC": "515e4414c40c64d300000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_ITL": "b8087c50d3162ee800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_MTB": "559642a508f66ffa00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_NW": "f6998fc7a4e3979d00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_TSOD": "ea0c18f18540622400000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_ZXM": "07518213d874f6fd00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_T_JHT": "db6915b9e698868800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_BMZC": "84880ebc1594f39900000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_CSTLJH30": "b79ffc1ac5b5068b00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_CSTLJH60": "bda520f7c7baaf3300000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_JRYWSY": "1ff5bfd7594fdd2d00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_JYYCKM": "58083b3b3efc2d4400000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_LCZC": "90e9c063ea62a70a00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_MYDKJC33": "2d2c346abdc7d4ff00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_MYDKJC66": "728d3a801e04298600000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_SJZC": "2dc09f9192279cca00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_ZAYYZ": "a3d084d02952019500000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_BEAST": "8e796e1624287f2800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_WDS": "4cfdc7fe3811c1ac00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_OOS": "7f9035465f9855b100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_WIS": "7987f0593182d47800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_Lullaby": "c618a44e0abd60b100000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_CS": "a4b925f7f30458d800000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_CL": "7045049b6e18b95d00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_COTD": "51b25eb07fc4d01e00000001",
+    "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Y_Takido": "09d29df78dc3fd0900000001",
+    "/Game/Text/ST_Item": "94c7f09cdb1a070300000001",
+    "/Game/Text/ST_UI_C": "ee7cde2f3401507500000001",
+    "/Game/Text/ST_Ui": "0be6cfeff8aa8e9c00000001",
+    "/Game/DataTable/Music/DT_PlayerMusic": "8ff04f3ea1a2c04400000001"
+  }
+}
