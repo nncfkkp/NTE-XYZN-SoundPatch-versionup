@@ -1,12 +1,12 @@
 {
-  "game_dir": "",
+  "game_dir": "游戏安装目录",
   "version": "2.1.4",
   "update_check_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/config.json.example",
   "release_page": "https://github.com/nncfkkp/NTE-XYZN-SoundPatch-versionup",
   "data_version": "20260923",
   "data_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/data/songs.json?v=20260923",
-  "data_sha256": "36006a6fa672786669bb89558126920d7c3794175b7c9a4a539f56010a28177b",
+  "data_sha256": "825845f1666f8f673beb94c0302a79d42265662831b1aba26fd8282076db53e3",
   "templates_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/data/templates.json?v=20260923",
-  "templates_sha256": "6300190ba7c758a0ad44460b12b89fcb2b387f6aded65c9fdb3864021763836d",
+  "templates_sha256": "4694db0bc5604f0d3675064dbeb232ec179fa2c89b04cf7e60af1ee065cf0e12",
   "replace_state": {}
 }
