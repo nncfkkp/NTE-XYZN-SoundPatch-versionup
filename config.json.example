@@ -1,0 +1,9 @@
+{
+  "version": "2.1.4",
+  "release_page": "https://github.com/nncfkkp/NTE-XYZN-SoundPatch-versionup",
+  "data_version": "20261017",
+  "data_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/data/songs.json?v=20261017",
+  "data_sha256": "b7749ee3e67102a9f67810d7bd825d9d5deef955371e2596707fdbec2b100d32",
+  "templates_url": "https://raw.githubusercontent.com/nncfkkp/NTE-XYZN-SoundPatch-versionup/main/data/templates.json?v=20261017",
+  "templates_sha256": "84682c5730f7e83b3b8d9d66defa41131e43b7f012b2cad41eda43736ee51cdd"
+}
